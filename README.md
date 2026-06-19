@@ -10,3 +10,11 @@ Aprender a usar GitHub paso a paso para gestionar proyectos, documentos y códig
 
 - Lección 1: creación del primer repositorio.
 - Lección 2: comprensión básica de commits e historial.
+
+## Conceptos aprendidos
+
+- Repositorio
+- README
+- Commit
+- Historial de cambios
+- Rama o branch
